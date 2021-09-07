@@ -8,6 +8,7 @@ A collection of already build code to perform security testing
 
 ## Java
 1. [If you know the internal target endpoint and the JSESSIONID value of the cookie, you can probably bypass the Spring Boot web app with Spring Security](https://github.com/p-cap/using-JSESSIONID-inside-cookie)
+2. [Log Forging and ways to minimize potential attack](https://github.com/p-cap/Log-Forging-Demo)
 
 ## Subresource Integrity Checking
 [Two html files pulling from the same CDN but different integrity values](https://github.com/p-cap/Subresource-Integrity-Checking)
