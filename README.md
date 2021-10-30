@@ -14,4 +14,4 @@ A collection of already build code to perform security testing
 [Two html files pulling from the same CDN but different integrity values](https://github.com/p-cap/Subresource-Integrity-Checking)
 
 ## DOM Based XSS
-(decodeURIComponent and document.write makes website vulnerable)[https://github.com/p-cap/DOM-Based-XSS.git]
+[decodeURIComponent and document.write makes website vulnerable](https://github.com/p-cap/DOM-Based-XSS.git)
