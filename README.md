@@ -17,3 +17,6 @@ A collection of already build code to perform security testing
 ## DOM Based XSS
 - [decodeURIComponent and document.write makes website vulnerable](https://github.com/p-cap/DOM-Based-XSS.git)   
 - [Portswigger Academy DOM-based XSS labs](https://github.com/p-cap/Portswigger-Academy-Mock/tree/main/XSS)
+
+## Web-based Vulnerabilities
+- Absolute Path Traversal 
