@@ -19,4 +19,4 @@ A collection of already build code to perform security testing
 - [Portswigger Academy DOM-based XSS labs](https://github.com/p-cap/Portswigger-Academy-Mock/tree/main/XSS)
 
 ## Web-based Vulnerabilities
-- Absolute Path Traversal 
+- [Absolute Path Traversal](https://github.com/p-cap/AppSec-POC/tree/main/Absolute%20Path%20Traversal) 
