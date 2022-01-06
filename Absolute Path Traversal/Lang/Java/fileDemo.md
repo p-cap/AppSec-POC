@@ -21,5 +21,5 @@
 If the source is NOT sanitized and validated, an attacker is able to traverse through the directory
 
 ### Reference
-Class File
+Class File \
 https://docs.oracle.com/javase/7/docs/api/java/io/File.html
