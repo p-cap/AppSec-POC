@@ -21,3 +21,4 @@ A collection of already build code to perform security testing
 
 ## Web-based Vulnerabilities
 - [Absolute Path Traversal](https://github.com/p-cap/AppSec-POC/tree/main/Absolute%20Path%20Traversal) 
+- [AntPathMatcher matching "/**" can mitigate Absolute Path Traversal](https://github.com/p-cap/anything-JAVA/tree/main/handlerMappingDemo)
