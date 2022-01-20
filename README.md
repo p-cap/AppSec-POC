@@ -5,7 +5,7 @@ A collection of already build code to perform security testing
 1. [C# Application connected to a postgres database](https://github.com/p-cap/C-sharp-postgreSQL)
 2. [C# Application connected to a mySQL DB](https://github.com/p-cap/C-sharp-mySQL)
 3. [Default HSTS header and HTTPS redirection configuration on a C# ASP.NET application](https://github.com/p-cap/HSTS-HTTPS-redirection-demo)
-4. [Perform Path Traversal when implementing the Path.Combine Function]
+4. [Perform Path Traversal when implementing the Path.Combine Function](https://github.com/p-cap/AppSec-POC/blob/main/Absolute%20Path%20Traversal/Lang/CSharp/PathCombine.md)
 
 ## Java
 1. [If you know the internal target endpoint and the JSESSIONID value of the cookie, you can probably bypass the Spring Boot web app with Spring Security](https://github.com/p-cap/using-JSESSIONID-inside-cookie)
